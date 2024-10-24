@@ -6,7 +6,7 @@ namespace MightyBurger.Pages
     {
         public void OnGet()
         {
-            // Any logic for about us page goes here
+            
         }
     }
 }
